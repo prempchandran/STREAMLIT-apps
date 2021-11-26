@@ -1,2 +1,2 @@
-# streamlit-app
-PREM CHANDRAN streamlit app codes
+# PREM CHANDRAN streamlit-app
+This is a list of streamlit app codes i created while learning how to use streamlit
